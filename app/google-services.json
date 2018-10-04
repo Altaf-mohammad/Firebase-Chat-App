@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1088406553279",
+    "firebase_url": "https://camscannerlicense.firebaseio.com",
+    "project_id": "camscannerlicense",
+    "storage_bucket": "camscannerlicense.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088406553279:android:73595cab60b459c8",
+        "android_client_info": {
+          "package_name": "com.example.altaf.camscannerlicense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088406553279-9u6ne17a5g1t0p2bfadhi011ksb5duba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.altaf.camscannerlicense",
+            "certificate_hash": "f30af346866889d8fcbf6deaa8e8e70954c26097"
+          }
+        },
+        {
+          "client_id": "1088406553279-98o283ochav7242qn96e9mfng5cfupsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9YhmZBkGhp3bvSlwZSDY0TZqpDk9uhMw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088406553279-98o283ochav7242qn96e9mfng5cfupsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
