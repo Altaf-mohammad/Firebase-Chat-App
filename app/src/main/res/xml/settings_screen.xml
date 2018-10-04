@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+<EditTextPreference android:title="Feedback"/>
+
+<EditTextPreference android:title="Recommend"/>
+
+<EditTextPreference android:title="App Star"/>
+
+<SwitchPreference android:title="Hide Icon" android:summary="Hide the icon of CamScanner License. it works after restarting the phone"/>
+
+<EditTextPreference android:title="About" android:summary="About CamScanner"/>
+
+<ListPreference android:title="Update" android:summary="Check the latest version" android:entryValues="@array/lists" android:entries="@array/lists"/>
+
+<SwitchPreference android:title="Push Notifications" android:summary="Turn it off if you don't want to receive push notifications from CamScanner " android:defaultValue="true"/>
+
+</PreferenceScreen>
