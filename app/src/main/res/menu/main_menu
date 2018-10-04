@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<item android:title="Account Settings" android:id="@+id/main_settings_btn"/>
+
+<item android:title="Bond's Profile" android:id="@+id/main_user_btn"/>
+
+<item android:title="@string/log_out" android:id="@+id/main_logout_btn"/>
+
+</menu>
